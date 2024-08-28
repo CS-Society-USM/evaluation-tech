@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>Technical Evaluation</h1>
+      <h1>Technical Evaluation Task</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
